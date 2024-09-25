@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Power_Scheduler.dir/src/main.cpp.o CMakeFiles/Power_Scheduler.dir/src/scheduler.cpp.o CMakeFiles/Power_Scheduler.dir/src/task.cpp.o -o Power_Scheduler 
